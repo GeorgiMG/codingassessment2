@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <movies>
     <movie>
         <movieTitle>Inception</movieTitle>
@@ -29,3 +28,4 @@
         <platform>Prime Video</platform>
     </movie>
 </movies>
+

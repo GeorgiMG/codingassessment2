@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+    <movie>
+        <movieTitle>Inception</movieTitle>
+        <profit>829M</profit>
+        <movieGenre>Sci-Fi</movieGenre>
+        <releaseDate>2010</releaseDate>
+        <platform>Netflix</platform>
+    </movie>
+    <movie>
+        <movieTitle>Avatar</movieTitle>
+        <profit>2.9B</profit>
+        <movieGenre>Fantasy</movieGenre>
+        <releaseDate>2009</releaseDate>
+        <platform>Disney+</platform>
+    </movie>
+    <movie>
+        <movieTitle>Interstellar</movieTitle>
+        <profit>677M</profit>
+        <movieGenre>Adventure</movieGenre>
+        <releaseDate>2014</releaseDate>
+        <platform>HBO Max</platform>
+    </movie>
+    <movie>
+        <movieTitle>Titanic</movieTitle>
+        <profit>2.2B</profit>
+        <movieGenre>Drama</movieGenre>
+        <releaseDate>1997</releaseDate>
+        <platform>Prime Video</platform>
+    </movie>
+</movies>
